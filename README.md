@@ -1,7 +1,7 @@
 # 🐒 Lehi Bonafe
 **`Cloud Artisan`**
 
-I'm a DevOps/SRE passonaite in building resilient, reliabile, and scalable cloud infrastructure using various tools to meet organization's objective. 
+I'm a passionate DevOps/SRE engineer who builds resilient, reliable, and scalable cloud infrastructure, using automation and modern tools to deliver on organizational goals.
 
 
 #### Languages and Tools :
