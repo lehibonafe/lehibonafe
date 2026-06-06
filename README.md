@@ -1,7 +1,7 @@
 # 🐒 Lehi Bonafe
 **`Cloud Artisan`**
 
-I'm a reliability engineer, Linux wrangler, automation fanboy. I turn chaos into order by building reliable systems and make complex things simple with code and pipelines.
+I'm a DevOps/SRE passonaite in building resilient, reliabile, and scalable cloud infrastructure using various tools to meet organization's objective. 
 
 
 #### Languages and Tools :
